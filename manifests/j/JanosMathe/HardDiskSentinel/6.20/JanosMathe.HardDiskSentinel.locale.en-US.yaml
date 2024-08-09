@@ -1,7 +1,7 @@
-# Created with komac v2.2.1
+# Created using wingetcreate 1.6.4.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
-PackageIdentifier: JanosMathe.HardDiskSentinelPro
+PackageIdentifier: JanosMathe.HardDiskSentinel
 PackageVersion: "6.20"
 PackageLocale: en-US
 Publisher: H.D.S. Hungary
@@ -9,8 +9,8 @@ PublisherUrl: https://www.hdsentinel.com/
 PublisherSupportUrl: https://www.hdsentinel.com/support.php
 PrivacyUrl: https://www.hdsentinel.com/privacy.php
 Author: Janos Mathe
-PackageName: Hard Disk Sentinel Professional
-PackageUrl: https://www.hdsentinel.com/hard_disk_sentinel_professional.php
+PackageName: Hard Disk Sentinel
+PackageUrl: https://www.hdsentinel.com/hard_disk_sentinel.php
 License: Shareware
 Copyright: © 2024 H.D.S. Hungary. All Rights Reserved.
 ShortDescription: Hard Disk Sentinel (HDSentinel) is a multi-OS software that monitors, diagnoses and repairs hard disks, SSDs, RAID arrays and other storage devices.
